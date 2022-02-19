@@ -1,7 +1,6 @@
 # CSS Patika **First Homework**
 
 
-### | Basic Documents 
 
 ## | Basic Documents 
 
@@ -17,7 +16,7 @@
 
 
 
-## | **It's basic work ladies & gents. =] I'm trying for progress** İf you have offer, I listen to you. Thank you... **mad love, peace out 🕊**
+### | **It's basic work ladies & gents. =] I'm trying for progress** İf you have offer, I listen to you. Thank you... **mad love, peace out 🕊**
 
 
 
