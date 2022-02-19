@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+
+header {margin: 1rem;}
+header h1 {color: #B33030;}
+
+nav {margin: 10px 0;}
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+nav a {
+    text-decoration: none;
+    padding: 0 15px;
+    color: #606060;
+}
+nav a:hover{color: #B33030;}
+
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+section h3 {color: #18b1b1;}
+section h5 {
+    margin: 20px 0 0 0;
+    font-size: 18px;
+    color: #fdc868;
+}
+section ul {
+    display: flex;
+    list-style: inside;
+    margin: 20px 0;
+}
+section ul#homepage-list {
+    flex-direction: column;
+    align-items: flex-start;
+}
+section ul.storage-list {flex-direction: row;}
+section ul.storage-list li {
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+section ul.storage-list li img {width: 300px;}
+
